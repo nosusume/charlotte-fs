@@ -1,0 +1,9 @@
+[package]
+name = "charlotte-fs"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+anyhow = "1.0.87"
+bytes = "1.7.1"
+rust-crypto = "0.2.36"
